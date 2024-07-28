@@ -1,6 +1,6 @@
 
 
 def lambda_handler():
-    print("Got a commit to main branch")
+    print("Editing this")
     print("second line")
 
