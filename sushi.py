@@ -1,1 +1,3 @@
-new_function():
+
+new_function()
+print()
