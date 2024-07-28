@@ -1,3 +1,4 @@
 
 new_function()
-print("hellow world")
+  print("hellow world")
+  print("hellow")
