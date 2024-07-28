@@ -1,3 +1,3 @@
 
 new_function()
-print()
+print("hellow world")
